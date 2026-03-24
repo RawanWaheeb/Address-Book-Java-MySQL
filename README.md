@@ -1,10 +1,10 @@
 # Address Book System (Java JDBC)
 
 
-هذا المشروع يوضح كيفية الربط بين لغة Java وقاعدة بيانات MySQL لإدارة جهات الاتصال.
+Java JDBC & MySQL Address Book System
 
 
-## مخرجات تشغيل البرنامج (Console Output):
+##  (Console Output):
 
 
 ```text
